@@ -6,5 +6,5 @@ building scalable web applications and data-driven solutions.Skilled in React, N
 🛠️ Skills
 
 🔹 Frontend
-![]image alt](https://github.com/zak2721/zak2721/blob/dd971c6e3a174603a52c60cf3b459e8b17952675/Github/download%20(1).png)
+![image alt](https://github.com/zak2721/zak2721/blob/dd971c6e3a174603a52c60cf3b459e8b17952675/Github/download%20(1).png)
    
